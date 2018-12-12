@@ -1,0 +1,3 @@
+HTML    = TEKA_TEKI -> REVERSE  -> SEGITIGA   -> MULTIMEDIA -> S      -> MANTAP
+JAWABAN = REVERSE   -> SEGITIGA -> MULTIMEDIA -> S          -> MANTAP -> ???
+TYPE    = EASY      -> EASY     -> NORMAL     -> HARD       -> HARD
